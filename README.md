@@ -11,7 +11,7 @@ I love creating innovative projects, tinkering with microcontrollers, and explor
 
 - 🎓 **Education:** 4th Year Computer Science @ **UPB**
     
-- ⚡ **Passions:** Embedded Systems, Drones, Automation, IoT
+- ⚡ **Passions:** Embedded Systems, Fpv Drones, Automation, IoT
     
 - 🛠️ **Tech Skills:**
     
