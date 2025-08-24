@@ -1,15 +1,8 @@
 # **Welcome to My GitHub Profile!**
 
-Hi there! 👋  
-I’m a **Computer Science student** at **University Politehnica of Bucharest (UPB)** and a passionate enthusiast in the world of **embedded systems, electronics** and **drones**. 💻🛠️🚀
-
-I love creating innovative projects, tinkering with microcontrollers, and exploring the fascinating intersection of hardware and software. Whether it's building and flying fpv drones, designing IoT systems, or diving into low-level programming, I'm always eager to learn and experiment!
-
----
-
 ## 🌟 **About Me**
 
-- 🎓 **Education:** 4th Year Computer Science @ **UPB**
+- 🎓 **Education:** Computer Science @ **UPB**
     
 - ⚡ **Passions:** Embedded Systems, Fpv Drones, Automation, IoT
     
